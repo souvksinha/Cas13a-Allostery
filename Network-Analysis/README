@@ -1,1 +1,3 @@
+1. GC-based-mapping notebook: Create network files following the GC data using the _Dynetan_ Package from work titled "Generalized correlation-based dynamical network analysis: a new high-performance approach for identifying allosteric communications in molecular dynamics trajectories", by Marcelo C. R. Melo, Rafael C. Bernardi, Cesar de la Fuente-Nunez, and Zaida Luthey-Schulten**
 
+Basic-analysis notebook: uses the GC-based-mapping notebook output to dig dip in terms of path based analysis or interdomain communication analysis
