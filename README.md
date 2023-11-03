@@ -1,5 +1,5 @@
 # Cas13a-Allostery
-This repository corresponds to the project/manuscript titled ***"RNA-mediated Allosteric Activation in CRISPR-Cas13a."*** by Souvik Sinha, Adrian M. Molina Vargas, Pablo R. Arantes, Amun Patel, Mitchell R. O’Connell, Giulia Palermo
+This repository corresponds to the project/manuscript titled ***"Unveiling the RNA-mediated Allosteric Activation Discloses Functional Hotspots in CRISPR-Cas13a."*** by Souvik Sinha, Adrian M. Molina Vargas, Pablo R. Arantes, Amun Patel, Mitchell R. O’Connell, Giulia Palermo
 
 The **Network-Analysis** folder contains notebooks for conducting network analysis as described in the paper, including the introduction of SNR calculation.
 
